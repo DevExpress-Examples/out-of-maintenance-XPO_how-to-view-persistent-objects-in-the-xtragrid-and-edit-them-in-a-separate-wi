@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [FormEditOrder.cs](./CS/FormEditOrder.cs) (VB: [FormEditOrder.vb](./VB/FormEditOrder.vb))
+* **[FormViewOrders.cs](./CS/FormViewOrders.cs) (VB: [FormViewOrders.vb](./VB/FormViewOrders.vb))**
+* [PersistentObjects.cs](./CS/PersistentObjects.cs) (VB: [PersistentObjects.vb](./VB/PersistentObjects.vb))
+<!-- default file list end -->
 # How to view persistent objects in the XtraGrid and edit them in a separate window
 
 
